@@ -1,1 +1,1 @@
-Hello from India
+print("Application Started")Hello from India
